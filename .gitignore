@@ -1,0 +1,7 @@
+.idea
+/dataset
+/datasets_mod
+__pycache__/
+/preprocess/__pycache__/
+/preprocess/.DS_Store
+**.tsv

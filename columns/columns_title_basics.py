@@ -1,0 +1,10 @@
+tconst = "tconst"
+title_type = "title_type"
+primary_title = "primary_title"
+original_title = "original_title"
+is_adult = "is_adult"
+start_year = "start_year"
+end_year = "end_year"
+runtime_minutes = "runtime_minutes"
+genres = "genres"
+

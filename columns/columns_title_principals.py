@@ -1,0 +1,6 @@
+tconst = "tconst"
+ordering = "ordering"
+nconst = "nconst"
+category = "category"
+job = "job"
+characters = "characters"
